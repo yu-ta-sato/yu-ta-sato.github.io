@@ -83,13 +83,13 @@ author:
   name             : "Yuta Sato"
   avatar           : "profile.jpg"
   bio              : "Geographic Data Scientist"
-  location         : "London, United Kingdom"
+  location         : "Liverpool, United Kingdom"
   github           : "yu-ta-sato"
   linkedin         : "yuta-sato-633750161"
   googlescholar    : "https://scholar.google.com/citations?user=K-X84rkAAAAJ"
   researchgate     : "https://www.researchgate.net/profile/Yuta-Sato-20" # example: "https://www.researchgate.net/profile/yourprofile"
   orcid            : "https://orcid.org/0009-0004-7052-7163"
-  email            :
+  email            : "y.sato@liverpool.ac.uk"
   employer         :
   uri              :
   bitbucket        :
