@@ -266,6 +266,7 @@ DEPENDENCIES
   hawkins
   jekyll (= 3.9.0)
   jekyll-feed
+  jekyll-redirect-from
   jekyll-sitemap
 
 BUNDLED WITH
