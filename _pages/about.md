@@ -22,3 +22,5 @@ I am a **data scientist** being interested in the utilisation of geospatial data
 
 - Between April 2019 and August 2022, I was working as a Cybersecurity Analyst at **Nissan Motor Coorporation Ltd.** with roles of project manager and solution architect of ML-based anti-malware deployment to the AWS instances and on-premise servers.
 - I completed [Bachelor in Commerce](https://www.cm.hit-u.ac.jp/eng/) at **Hitotsubashi University** with `CGPA 3.51/4.3`, specialising Corporate Strategy and Econometrics.
+
+<img src='https://github.com/yu-ta-sato/yu-ta-sato/blob/main/img/yuta_sato_liverpool.gif?raw=true'>
